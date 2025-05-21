@@ -1,0 +1,21 @@
+{
+  "background_music": "bg_music.mp3",
+  "story_parts": [
+    "part1_ai_intro.mp3",
+    "part2_ai_forest.mp3",
+    "part3_ai_cave.mp3",
+    "part4_ai_magic.mp3",
+    "part5_ai_ending.mp3",
+    "part6_ai_outro.mp3"
+  ],
+  "sound_effects": [
+    {
+      "file": "sfx_echo.mp3",
+      "position_ms": 15000
+    },
+    {
+      "file": "sfx_magic.mp3",
+      "position_ms": 33000
+    }
+  ]
+}
